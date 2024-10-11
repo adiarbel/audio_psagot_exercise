@@ -1,1 +1,1 @@
-# A readme start
+# Audio exercise for educational purposes
